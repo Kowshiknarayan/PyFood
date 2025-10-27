@@ -1,6 +1,6 @@
 # 🍴 PyFood – Food Ordering System (Python)
 
-PyFood is a console-based food ordering system built using **Object-Oriented Programming in Python**.  
+PyFood is a console-based food ordering system built using Object-Oriented Programming in Python.  
 It demonstrates user management, restaurant menus, cart functionality, and order processing — all organized in a modular architecture.
 
 ---
